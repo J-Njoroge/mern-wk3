@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Base styles */
+html, body, #root {
+	height: 100%;
+}
+
+/* Smooth transitions for theme */
+.dark body, body {
+	transition: background-color 200ms, color 200ms;
+}
