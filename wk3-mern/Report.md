@@ -12,7 +12,7 @@
 
 
 ### Live Demo
-https://vercel.com/jane-njoroges-projects/mern-wk3/4xShpqodrtwW5i2VfKGnqKkhpLFA
+https://mern-wk3.vercel.app/
 
 ### How to run
 Prerequisites: Node.js 20.19+ or 22.12+ recommended.
