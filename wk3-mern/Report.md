@@ -10,6 +10,10 @@
 - Posts page: fetches 20 posts from DummyJSON, with search and pagination (2 pages total)
 - Responsive design using Tailwind utility classes
 
+
+### Live Demo
+https://J-Njoroge.github.io/react-js-jsx-and-css-mastering-front-end-development-J-Njoroge/
+
 ### How to run
 Prerequisites: Node.js 20.19+ or 22.12+ recommended.
 
